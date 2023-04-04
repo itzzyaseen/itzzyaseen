@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently working on Analysing Data <br><br>I’m currently learning AI and ML.<br><br>I’m looking to collaborate on OpenSource Projects<br><br>Fun fact I watch sci-fi movies and enjoy solving Problems.<br>I’m currently working on Data <br><br>I’m currently learning AI and ML.<br><br>I’m looking to collaborate on OpenSource Projects<br><br>Fun fact I watch sci-fi movies and enjoy solving Problems.<br>
+🔭 I’m currently working on Analysing Data.<br><br>
+🌱 I’m currently learning AI and ML.<br><br>
+👯 I’m looking to collaborate on OpenSource Projects.<br><br>👨‍
+💻 All of my projects are available at My Portfolio.<br><br>
+⚡ Fun fact I watch sci-fi movies and enjoy solving Problems.
 
 
 ## 🌐 Socials:
@@ -12,7 +16,8 @@ I’m currently working on Analysing Data <br><br>I’m currently learning AI an
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itzzyaseen&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzzyaseen&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=ITZZYASEEN)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=itzzyaseen&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
